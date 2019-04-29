@@ -28,7 +28,7 @@ namespace GestionAtelier
         private void AjoutEnfantAtelier_Load(object sender, EventArgs e)
         {
             List<Atelier> lstAtelier = new List<Atelier>();
-            MySqlConnection conn = DBMySQLUtils.GetDBConnection("localhost", 3306, "172.29.102.22", "root", "root");
+            MySqlConnection conn = DBMySQLUtils.GetDBConnection("172.29.102.22", 3306, "ram", "root", "root");
             string sql = "CALL `recup_Atelier`();";
             // Créez un objet Command.
             MySqlCommand cmd = new MySqlCommand(sql, conn);
@@ -109,7 +109,7 @@ namespace GestionAtelier
             int enfId = enf.GetId();
             Console.WriteLine(enfId);
 
-            MySqlConnection conn = DBMySQLUtils.GetDBConnection("localhost", 3306, "172.29.102.22", "root", "root");
+            MySqlConnection conn = DBMySQLUtils.GetDBConnection("172.29.102.22", 3306, "ram", "root", "root");
             string sql = "CALL `creer_Lien`(@pEnfId , @pAteId);";
             // Créez un objet Command.
             MySqlCommand cmd = new MySqlCommand(sql, conn);

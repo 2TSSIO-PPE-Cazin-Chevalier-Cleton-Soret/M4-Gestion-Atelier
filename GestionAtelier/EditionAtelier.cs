@@ -32,7 +32,7 @@ namespace GestionAtelier
                 int ateId = ate.GetId();
                 Console.WriteLine(ateId);
                 MySqlConnection conn = null;
-                conn = DBMySQLUtils.GetDBConnection("localhost", "172.29.102.22", "root", "root");
+                conn = DBMySQLUtils.GetDBConnection("172.29.102.22", "ram", "root", "root");
                 String recupEnfant = null;
                 recupEnfant = "CALL `recup_Enfant_Atelier2`(@pateId);";
                 MySqlCommand afficherEnfant = null;
@@ -82,7 +82,7 @@ namespace GestionAtelier
         {
             {
                 List<Atelier> lstAtelier = new List<Atelier>();
-                MySqlConnection conn = DBMySQLUtils.GetDBConnection("localhost", 3306, "172.29.102.22", "root", "root");
+                MySqlConnection conn = DBMySQLUtils.GetDBConnection("172.29.102.22", 3306, "ram", "root", "root");
                 string sql = "CALL `recup_Atelier`();";
                 // Créez un objet Command.
                 MySqlCommand cmd = new MySqlCommand(sql, conn);
