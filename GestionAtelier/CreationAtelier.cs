@@ -37,7 +37,7 @@ namespace GestionAtelier
             string persoConcerne = listBoxPerso.Text;
             DateTime jour = dateTimePickerJourAtelier.Value.Date;
 
-            MySqlConnection conn = DBMySQLUtils.GetDBConnection("localhost", "ram", "root", "root");
+            MySqlConnection conn = DBMySQLUtils.GetDBConnection("localhost", "172.29.102.22", "root", "root");
             conn.Open();
             try
             {
@@ -143,12 +143,12 @@ namespace GestionAtelier
         private void add(String prenom, String nom, String telephone, String status, String informations, DateTime dateInscription, DateTime dateFinInscription)
         {
             ////SQL STMT
-            MySqlConnection conn = DBMySQLUtils.GetDBConnection("localhost", 3306, "ram", "root", "root");
+            MySqlConnection conn = DBMySQLUtils.GetDBConnection("localhost", 3306, "172.29.102.22", "root", "root");
             conn.Open();
             string sql = "call `creer_enfant`(@prenom , @nom, @telephone, @status, @informations, @dateinscription, @datefininscription );";
             MySqlCommand cmd = new MySqlCommand(sql, conn);
 
-            ////ADD PARAMETERS
+            ////ADD PAramETERS
             cmd.Parameters.AddWithValue("@prenom", prenom);
             cmd.Parameters.AddWithValue("@nom", nom);
             cmd.Parameters.AddWithValue("@telephone", telephone);

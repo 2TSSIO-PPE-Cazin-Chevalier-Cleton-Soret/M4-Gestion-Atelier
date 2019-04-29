@@ -13,7 +13,7 @@ namespace Tutorial.SqlConn
         {
             string host = "localhost";
             int port = 3306;
-            string database = "ram";
+            string database = "172.29.102.22";
             string username = "root";
             string password = "root";
 
