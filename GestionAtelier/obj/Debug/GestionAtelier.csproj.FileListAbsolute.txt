@@ -1,0 +1,16 @@
+D:\Users\theoc\source\repos\GestionAtelier\GestionAtelier\bin\Debug\GestionAtelier.exe.config
+D:\Users\theoc\source\repos\GestionAtelier\GestionAtelier\bin\Debug\GestionAtelier.exe
+D:\Users\theoc\source\repos\GestionAtelier\GestionAtelier\bin\Debug\GestionAtelier.pdb
+D:\Users\theoc\source\repos\GestionAtelier\GestionAtelier\obj\Debug\GestionAtelier.Properties.Resources.resources
+D:\Users\theoc\source\repos\GestionAtelier\GestionAtelier\obj\Debug\GestionAtelier.csproj.GenerateResource.cache
+D:\Users\theoc\source\repos\GestionAtelier\GestionAtelier\obj\Debug\GestionAtelier.csproj.CoreCompileInputs.cache
+D:\Users\theoc\source\repos\GestionAtelier\GestionAtelier\obj\Debug\GestionAtelier.exe
+D:\Users\theoc\source\repos\GestionAtelier\GestionAtelier\obj\Debug\GestionAtelier.pdb
+D:\Users\theoc\source\repos\GestionAtelier\GestionAtelier\obj\Debug\GestionAtelier.Form1.resources
+D:\Users\theoc\source\repos\GestionAtelier\GestionAtelier\obj\Debug\GestionAtelier.CreationAtelier.resources
+D:\Users\theoc\source\repos\GestionAtelier\GestionAtelier\obj\Debug\GestionAtelier.csprojResolveAssemblyReference.cache
+D:\Users\theoc\source\repos\GestionAtelier\GestionAtelier\bin\Debug\AoD.dll
+D:\Users\theoc\source\repos\GestionAtelier\GestionAtelier\bin\Debug\MySql.Data.dll
+D:\Users\theoc\source\repos\GestionAtelier\GestionAtelier\obj\Debug\GestionAtelier.csproj.CopyComplete
+D:\Users\theoc\source\repos\GestionAtelier\GestionAtelier\obj\Debug\GestionAtelier.AjoutEnfantAtelier.resources
+D:\Users\theoc\source\repos\GestionAtelier\GestionAtelier\obj\Debug\GestionAtelier.EditionAtelier.resources
