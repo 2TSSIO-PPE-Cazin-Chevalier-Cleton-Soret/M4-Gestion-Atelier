@@ -14,3 +14,17 @@ D:\Users\theoc\source\repos\GestionAtelier\GestionAtelier\bin\Debug\MySql.Data.d
 D:\Users\theoc\source\repos\GestionAtelier\GestionAtelier\obj\Debug\GestionAtelier.csproj.CopyComplete
 D:\Users\theoc\source\repos\GestionAtelier\GestionAtelier\obj\Debug\GestionAtelier.AjoutEnfantAtelier.resources
 D:\Users\theoc\source\repos\GestionAtelier\GestionAtelier\obj\Debug\GestionAtelier.EditionAtelier.resources
+C:\Applis-Lourdes\GestionAtelier\GestionAtelier\bin\Debug\GestionAtelier.exe.config
+C:\Applis-Lourdes\GestionAtelier\GestionAtelier\bin\Debug\GestionAtelier.exe
+C:\Applis-Lourdes\GestionAtelier\GestionAtelier\bin\Debug\GestionAtelier.pdb
+C:\Applis-Lourdes\GestionAtelier\GestionAtelier\obj\Debug\GestionAtelier.csprojAssemblyReference.cache
+C:\Applis-Lourdes\GestionAtelier\GestionAtelier\obj\Debug\GestionAtelier.CreationAtelier.resources
+C:\Applis-Lourdes\GestionAtelier\GestionAtelier\obj\Debug\GestionAtelier.AjoutEnfantAtelier.resources
+C:\Applis-Lourdes\GestionAtelier\GestionAtelier\obj\Debug\GestionAtelier.EditionAtelier.resources
+C:\Applis-Lourdes\GestionAtelier\GestionAtelier\obj\Debug\GestionAtelier.Form1.resources
+C:\Applis-Lourdes\GestionAtelier\GestionAtelier\obj\Debug\GestionAtelier.Properties.Resources.resources
+C:\Applis-Lourdes\GestionAtelier\GestionAtelier\obj\Debug\GestionAtelier.csproj.GenerateResource.cache
+C:\Applis-Lourdes\GestionAtelier\GestionAtelier\obj\Debug\GestionAtelier.csproj.CoreCompileInputs.cache
+C:\Applis-Lourdes\GestionAtelier\GestionAtelier\obj\Debug\GestionAtelier.csproj.CopyComplete
+C:\Applis-Lourdes\GestionAtelier\GestionAtelier\obj\Debug\GestionAtelier.exe
+C:\Applis-Lourdes\GestionAtelier\GestionAtelier\obj\Debug\GestionAtelier.pdb

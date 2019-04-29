@@ -15,7 +15,7 @@ namespace GestionAtelier
         {
             string host = "localhost";
             int port = 3306;
-            string database = "testplanningppe";
+            string database = "ram";
             string username = "root";
             string password = "root";
 
